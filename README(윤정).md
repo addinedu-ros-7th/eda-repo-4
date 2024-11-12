@@ -15,7 +15,7 @@ __기업 정보와 채용 정보의 분리__
 더 많은 데이터베이스를 쌓고, 합치면 기업 정보와 채용 정보를 융합한 보다 편리한 서비스를 제공할 수 있을 것이라 생각한다.
 
 
-| Name          | Position                 | Department      |
-|---------------|--------------------------|-----------------|
-| John Doe      | Developer                | IT              |
-| Jane Smith    | Project Manager          | Marketing       |
+| Name          | Position                                   | Department                |
+|---------------|--------------------------------------------|---------------------------|
+| John Doe      | Developer                                  | IT                        |
+| Jane Smith    | Project Manager                            | Marketing                 |
