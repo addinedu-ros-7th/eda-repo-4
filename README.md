@@ -90,22 +90,23 @@
 
 # 3. 기업 분석
  ## 데이터 수집 대상 선정
-- 채용 사이트에서 기업을 검색할 때, 현재 채용 중인 정보들만 표시됨
-- 기업의 경계가 모호하여 'AI'로 검색을 해도 연관된 다양한 카테고리의 기업이 검색됨
-- 완성도 있는 서비스 제공을 위해 데이터가 구조화되어 있는 한국인공지능산업협회에서 선정하는 기업들을 대상으로 정보 수집
-- 이후 정보가 부족하다면 이후 대상 기업을 늘려가기로 함
-- AI landscape(기업 기본 정보) + 잡플래닛(평점 등 추가 정보)를 종합하여 시각화 진행
+- 채용 사이트에서 기업을 검색하면 현재 채용 중인 정보만 표시됨
+- 'AI'로 검색해도 다양한 카테고리의 기업이 포함되어 AI 기업만의 정보를 얻기 어려움
+- 완성도 높은 서비스를 위해 한국인공지능산업협회에서 선정한 기업들을 대상으로 정보 수집
+- 이후 정보가 부족할 경우 대상 기업을 확대할 계획
+- 수집된 AI landscape(기업 기본 정보)와 잡플래닛(평점 등 추가 정보)을 종합하여 시각화 진행
   
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
     
 
 ## AI 기업 정보 시각화
 ### 지역별 AI 기업 개수
-- AI 기업의 대부분은 서울과 성남시에 있다.
+- AI 기업의 대부분이 서울시와 성남시에 있다.
 ![image](https://github.com/user-attachments/assets/916bd215-7ae3-4dce-9e23-1abe7fc82749)
 
 
 ### 카테고리별 AI 기업 개수
+- 자연어처리가 대세이다.
   
 ![image](https://github.com/user-attachments/assets/9d44e777-cf5d-4578-b62f-4956b86d3091)
 
@@ -142,16 +143,25 @@
 ### 실행 화면
 
 - 초기 화면
+ 
 ![image](https://github.com/user-attachments/assets/f7e33dea-c1b3-42ab-bebb-37b9e48b89e2)
+  
 - '모빌리티' 카테고리 필터링
+ 
 ![image](https://github.com/user-attachments/assets/e2295806-a0b7-424b-9dd2-39beccfcc47c)
+  
 - '챗봇', '강남구', '100명 이상', '100억 이상', '4점 이상' 필터링
-![image](https://github.com/user-attachments/assets/2b3511bf-29ab-47cf-bbde-7ce6827e7ad5)
-- 기업명 '에이아이' 포함하는 기업 검색
-![image](https://github.com/user-attachments/assets/df13fa36-3ddd-4623-a476-56f553a481cc)
-- '강남구', '4점 이상' 기업명 '에이아이' 포함하는 기업 검색
-![image](https://github.com/user-attachments/assets/007aa74d-283a-4aa5-8336-070a1a4ca67e)
 
+![image](https://github.com/user-attachments/assets/2b3511bf-29ab-47cf-bbde-7ce6827e7ad5)
+  
+- 기업명 '에이아이' 포함하는 기업 검색
+
+![image](https://github.com/user-attachments/assets/df13fa36-3ddd-4623-a476-56f553a481cc)
+  
+- '강남구', '4점 이상' 기업명 '에이아이' 포함하는 기업 검색
+
+![image](https://github.com/user-attachments/assets/007aa74d-283a-4aa5-8336-070a1a4ca67e)
+  
 # __4. 결론__
   
 ## __결과 및 기대효과__
@@ -161,10 +171,10 @@
 
 ## __문제점 및 개선방안__
 
-__기업 정보의 부족__ 
+### 기업 정보의 부족 
 - 특정 웹사이트에서 제공하는 기업목록이 아닌 DART, 잡코리아 등에서 더 많은 기업들의 정보를 가져오고 추가한다면 더욱 신뢰성 있고 유용한 정보 제공이 가능할 것이다.
 
-__기업 정보와 채용 정보의 분리__ 
+### 기업 정보와 채용 정보의 분리
 - AI기업에 대한 시각화 된 정보를 제공하는데 있어서 채용 정보까지 같이 필터링할 수 있는 서비스를 제공하지 못했다. 
 더 많은 데이터베이스를 구축하고 합치면 기업 정보와 채용 정보를 융합한 보다 편리한 서비스를 제공할 수 있을 것이라 생각한다.
 
