@@ -6,6 +6,7 @@
   정보가 부족하다면 이후 대상 기업을 늘려가기로 함(http://https://www.ailandscape.net/)
  
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
+![ads](https://github.com/user-attachments/assets/074b22a8-9b76-48c3-819e-44a604a8cb0e)
 
 
 ## 데이터 관계 분석
