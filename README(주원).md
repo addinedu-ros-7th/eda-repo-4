@@ -6,11 +6,18 @@
 ### 4. 결론
 
 
-## 1. 프로젝트 소개 (발표자: 임주원)
+# 1. 프로젝트 소개
+
+### 주제 선정 배경
+
+![image](https://github.com/user-attachments/assets/4c180284-1104-424c-9bd6-50caebe7a13c)
+
+---
 
 ### 구성원 및 역할
 
-![image](https://github.com/user-attachments/assets/96f5bfc5-8b85-4d3e-aa8b-583befa0b248)
+![image](https://github.com/user-attachments/assets/fa61446b-4c44-49ff-83a2-2a257a057adf)
+
 
 ---
 
@@ -22,11 +29,11 @@
 
 ### 활용 기술
 
-![image](https://github.com/user-attachments/assets/b08e7ed1-0ed9-4411-9789-97efb1676eaa)
+![image](https://github.com/user-attachments/assets/d738a605-36ba-456a-b1e4-9988e0f0bb47)
+
+
 
 ---
 
-### 주제 선정 배경
 
 
-![image](https://github.com/user-attachments/assets/a9428292-530c-4515-b48d-7b8cf04abf64)
