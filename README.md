@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/273b7c46-176c-4f6a-9cc2-776b10dcbba8)
-
+![image](https://github.com/user-attachments/assets/05fa4947-4226-4ef5-a26f-75e1ec9c4cdf)
 
 # eda-repo-4
 EDA 프로젝트 4조 저장소. AI JOBSORI
