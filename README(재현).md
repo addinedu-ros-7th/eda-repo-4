@@ -27,7 +27,7 @@
 
 
 ### 설립연도와 성장가능성의 상관관계
-- AI기업의 경우 최근에 생긴 회사가 성장가능성이 높다고 평가됐다.
+- 최근에 생긴 AI 기업이 성장가능성이 높다고 평가됐다.
   
 ![image](https://github.com/user-attachments/assets/ee41c576-5553-4bbc-a4f6-991bee82180f)
 
