@@ -16,13 +16,13 @@
 ## 데이터 관계 분석
 ### 연봉 & 워라벨 
 - 상관관계 분석을 통해 대부분의 직업에서 연봉이 높을 수록 워라밸이 안 좋은 것을 확인할 수 있었음
-![image](https://github.com/user-attachments/assets/cdda79b4-38bf-4cf9-b063-9c6f27c336da)
+![image](https://github.com/user-attachments/assets/374abc89-faf6-41de-bf66-a4bd607c4dbb)
 
 ### 사내문화 & 기업평점
 - 사내문화가 좋으면 대부분 기업의 평점이 좋은 것을 확인할 수 있었음
-![image](https://github.com/user-attachments/assets/923ec5e7-6d11-4682-9830-9ead68fa6e2a)
+![image](https://github.com/user-attachments/assets/21a38b2f-7934-44d1-956c-e2e5f592a832)
 
 ### 복지개수 & 복지평점
 - 복지 개수가 많다고 복지 평점이 좋은 건 아닌 것 같음
 - 복지가 많은 것 보다 복지의 질이 더 중요하다는 것을 확인할 수 있음
-![image](https://github.com/user-attachments/assets/2d738c8d-9445-4953-baab-8ea04a4ad2e4)
+![image](https://github.com/user-attachments/assets/12cd1e64-8685-45b4-8ea0-bc22f3ad9afa)
