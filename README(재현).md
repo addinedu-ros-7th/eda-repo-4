@@ -11,7 +11,7 @@
 
 ## AI 기업 시각화
 ### 지역별 AI 기업 개수
-- AI 기업은 대부분 서울에 밀집해 있음
+- AI 기업의 대부분은 서울과 성남시에 있다.
 ![image](https://github.com/user-attachments/assets/916bd215-7ae3-4dce-9e23-1abe7fc82749)
 
 
