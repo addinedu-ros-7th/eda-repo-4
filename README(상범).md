@@ -5,28 +5,33 @@
 
 ![image](https://github.com/user-attachments/assets/33a37ddb-a308-4bbf-897b-b89d80ea9e62)
 ![image](https://github.com/user-attachments/assets/79b6b782-3b3f-45a3-964f-d5c40d5dcf40)
+![image](https://github.com/user-attachments/assets/1039692a-45f4-4ecc-bcc0-7ec5b7525ee2)
 
 ## 경력별 채용 현황
 - AI 산업에서 신입사원 채용 건수는 5건 미만으로, 매우 적은 비율로 채용이 이뤄지고 있음
 - 경력직에서는, 경력이 3년 이상인 사람을 가장 많이 뽑는 것으로 확인됨
   
 ![image](https://github.com/user-attachments/assets/5f33ba4e-dc71-4a17-afdf-6dff919328c8)
+![image](https://github.com/user-attachments/assets/01d19a3a-57fb-4c13-8c16-a24ddc864d6c)
 
 ## 산업 및 직무별 채용 현황 
 - 산업과 직무별로 채용 현황을 봤을 때, IT 계열에서 압도적으로 채용이 많이 이뤄지고 있음을 확인할 수 있음
   
 ![image](https://github.com/user-attachments/assets/2712103b-2e9b-4609-bff6-ce2762e06275)
+![image](https://github.com/user-attachments/assets/281d88c6-fc12-4ddf-a1a6-c7f67e4b6933)
 
 ## 데이터 관계 분석
 ### 연봉 & 워라벨 
 - 상관관계 분석을 통해 대부분의 직업에서 연봉이 높을 수록 워라밸이 안 좋은 것을 확인할 수 있었음
   
 ![image](https://github.com/user-attachments/assets/374abc89-faf6-41de-bf66-a4bd607c4dbb)
+![image](https://github.com/user-attachments/assets/6a269d16-82d9-465b-8dc2-88e61242416f)
 
 ### 사내문화 & 기업평점
 - 사내문화가 좋으면 대부분 기업의 평점이 좋은 것을 확인할 수 있었음
   
 ![image](https://github.com/user-attachments/assets/21a38b2f-7934-44d1-956c-e2e5f592a832)
+![image](https://github.com/user-attachments/assets/f0044268-4569-4ae7-8787-73fd2f77093f)
 
 ### 복지개수 & 복지평점
 - 복지 개수가 많다고 복지 평점이 좋은 건 아닌 것 같음
