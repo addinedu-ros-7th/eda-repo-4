@@ -6,7 +6,6 @@
   정보가 부족하다면 이후 대상 기업을 늘려가기로 함(http://https://www.ailandscape.net/)
 - AI landscape(기업 기본 정보) + 잡플래닛(평점 등 추가 정보)를 종합하여 시각화 진행
     
-![ads](https://github.com/user-attachments/assets/074b22a8-9b76-48c3-819e-44a604a8cb0e)
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
     
   
