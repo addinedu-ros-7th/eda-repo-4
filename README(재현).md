@@ -7,6 +7,7 @@
  
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
 
+  
 ## 경력별 채용 현황
 - AI 산업에서 신입사원 채용 건수는 5건 미만으로, 매우 적은 비율로 채용이 이뤄지고 있음
 - 경력직에서는, 경력이 3년 이상인 사람을 가장 많이 뽑는 것으로 확인됨
