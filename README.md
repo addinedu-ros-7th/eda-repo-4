@@ -8,6 +8,7 @@
 - 구직자들에게 AI 관련 기업과 채용에 관련된 데이터 및 서비스 제공
 ![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
 
+
 ## 주제 선정 배경
 
 - AI 산업에 대한 관심이 높아짐에 따라 AI 관련 기업들과 일자리 또한 증가하고 있다.
