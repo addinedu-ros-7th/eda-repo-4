@@ -4,12 +4,13 @@
 - 기업의 경계가 모호하여 'AI'로 검색을 해도 연관된 다양한 카테고리의 기업이 검색됨
 - 완성도 있는 서비스 제공을 위해 데이터가 구조화되어 있는 한국인공지능산업협회에서 선정하는 기업들을 대상으로 하고
   정보가 부족하다면 이후 대상 기업을 늘려가기로 함(http://https://www.ailandscape.net/)
-  
+- AI landscape(기업 기본 정보) + 잡플래닛(평점 등 추가 정보)를 종합하여 시각화 진행
+    
 ![ads](https://github.com/user-attachments/assets/074b22a8-9b76-48c3-819e-44a604a8cb0e)
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
     
   
-## 산업 및 직무별 채용 현황 
+## ㅁㅇㄻㅇ
 - AI 산업에서 신입사원 채용 건수는 5건 미만으로, 매우 적은 비율로 채용이 이뤄지고 있음
 - 경력직에서는, 경력이 3년 이상인 사람을 가장 많이 뽑는 것으로 확인됨
   
