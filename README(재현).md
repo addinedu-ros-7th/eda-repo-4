@@ -4,6 +4,7 @@
 - 기업의 경계가 모호하여 'AI'로 검색을 해도 연관된 다양한 카테고리의 기업이 검색됨
 - 완성도 있는 서비스 제공을 위해 데이터가 구조화되어 있는 한국인공지능산업협회에서 선정하는 기업들을 대상으로 하고
   정보가 부족하다면 이후 대상 기업을 늘려가기로 함(http://https://www.ailandscape.net/)
+ 
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
 
 ## 경력별 채용 현황
