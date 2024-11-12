@@ -48,6 +48,20 @@
 | **아이콘**     | 1. 카테고리별 아이콘을 다르게 시각화<br>2. 아이콘 클릭시 수집한 기업 정보 표시           |
 | **필터링**     | 1. 카테고리<br>2. 시/구<br>3. 종업원수<br>4. 매출액<br>5. 평점  |
 | **검색**       | 1. 기업명 검색<br>2. 필터링 후 기업명 검색                    |
+  
+### 실행 화면
+
+#### 초기 화면
+![image](https://github.com/user-attachments/assets/f7e33dea-c1b3-42ab-bebb-37b9e48b89e2)
+#### '모빌리티' 카테고리 필터링
+![image](https://github.com/user-attachments/assets/e2295806-a0b7-424b-9dd2-39beccfcc47c)
+#### '챗봇', '강남구', '100명 이상', '100억 이상', '4점 이상' 필터링
+![image](https://github.com/user-attachments/assets/2b3511bf-29ab-47cf-bbde-7ce6827e7ad5)
+#### 기업명 '에이아이' 포함하는 기업 검색
+![image](https://github.com/user-attachments/assets/df13fa36-3ddd-4623-a476-56f553a481cc)
+#### '강남구', '4점 이상' 기업명 '에이아이' 포함하는 기업 검색
+![image](https://github.com/user-attachments/assets/007aa74d-283a-4aa5-8336-070a1a4ca67e)
+
 
 
 
