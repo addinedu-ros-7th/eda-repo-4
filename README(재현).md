@@ -20,19 +20,23 @@
 
 
 ## 설립연도와 평점의 상관관계
-- 오래된 회사일수록 안정적이기 때문에 평점이 좋지 않을까? => 거의 관계 없지만 최근에 생긴 기업들의 평점이 높다.
+- 상관관계 거의 없지만 최근에 생긴 AI 기업들의 평점이 높다.
   
 ![image](https://github.com/user-attachments/assets/f375cc18-14b5-4ec1-b341-4b8ffe387ffa)
 
 
-### 사내문화 & 기업평점
-- 사내문화가 좋으면 대부분 기업의 평점이 좋은 것을 확인할 수 있었음
+## 설립연도와 성장가능성의 상관관계
+- AI기업의 경우 최근에 생긴 회사가 성장가능성이 높다고 평가됐다.
   
-![image](https://github.com/user-attachments/assets/21a38b2f-7934-44d1-956c-e2e5f592a832)
-![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
+![image](https://github.com/user-attachments/assets/ee41c576-5553-4bbc-a4f6-991bee82180f)
 
-### 복지개수 & 복지평점
-- 복지 개수가 많다고 복지 평점이 좋은 건 아닌 것 같음
-- 복지가 많은 것 보다 복지의 질이 더 중요하다는 것을 확인할 수 있음
+## 종업원수와 평점의 상관관계
+- 상관관계 없다.
   
-![image](https://github.com/user-attachments/assets/12cd1e64-8685-45b4-8ea0-bc22f3ad9afa)
+![image](https://github.com/user-attachments/assets/6b7fa0c3-a505-4ccd-97ad-1c510b712a83)
+
+## 종업원수와 성장가능성의 상관관계
+- 상관관계 거의 없지만 종업원수가 적은 AI 기업들의 성장가능성이 높다고 평가됐다.
+  
+![image](https://github.com/user-attachments/assets/5c03e577-ed80-455f-aaaf-c5a8d7d07f35)
+
