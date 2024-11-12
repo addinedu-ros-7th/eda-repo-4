@@ -15,7 +15,13 @@ __기업 정보와 채용 정보의 분리__
 더 많은 데이터베이스를 쌓고, 합치면 기업 정보와 채용 정보를 융합한 보다 편리한 서비스를 제공할 수 있을 것이라 생각한다.
 
 
-| Name          | Position                                   | Department                |
+| Name          | Position           ![image](https://github.com/user-attachments/assets/73551800-c2c3-429e-a7ad-25187ca11618)
+                        | Department    ![image](https://github.com/user-attachments/assets/bd3b5b72-dc8b-4214-873d-f47efc85c5f7)
+            |
 |---------------|--------------------------------------------|---------------------------|
-| John Doe      | Developer                                  | IT                        |
-| Jane Smith    | Project Manager                            | Marketing                 |
+| John Doe      | Developer          ![image](https://github.com/user-attachments/assets/756a6f88-d166-4cc2-89a6-539def81efd1)
+                        | IT         ![image](https://github.com/user-attachments/assets/b6c98316-5c7d-45ba-9be8-465b6608e363)
+               |
+| Jane Smith    | Project Manager    ![image](https://github.com/user-attachments/assets/d4385c10-1149-4be3-918f-8d89118ace1e)
+                        | Marketing     ![image](https://github.com/user-attachments/assets/e30435f6-b1e9-41f1-9007-d223bb6520d7)
+            |
