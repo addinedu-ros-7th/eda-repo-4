@@ -11,7 +11,13 @@ EDA 프로젝트 4조 저장소. AI JOBSORI
 ### 4. 결론
 
 
-## 1. 프로젝트 소개 (발표자: 임주원)
+# 1. 프로젝트 소개 
+
+### 주제 선정 배경
+
+![image](https://github.com/user-attachments/assets/a9428292-530c-4515-b48d-7b8cf04abf64)
+
+---
 
 ### 구성원 및 역할
 
@@ -19,8 +25,7 @@ EDA 프로젝트 4조 저장소. AI JOBSORI
 
 ---
 
-### ERD
-
+### ERD (DB 구조)
 ![image](https://github.com/user-attachments/assets/fab48f6a-1fd5-4a45-bfe5-8671265e0f26)
 
 ---
@@ -31,7 +36,4 @@ EDA 프로젝트 4조 저장소. AI JOBSORI
 
 ---
 
-### 주제 선정 배경
 
-
-![image](https://github.com/user-attachments/assets/a9428292-530c-4515-b48d-7b8cf04abf64)
