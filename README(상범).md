@@ -3,6 +3,7 @@
 - AI 기업이 주로 성남시 분당구(판교)와 강남구 쪽에 많이 밀집하고 있음을 확인함
 - 전국을 기준으로 봤을 때, AI기업은 서울에 몰려 있는 것을 확인할 수 있음
 ![image](https://github.com/user-attachments/assets/33a37ddb-a308-4bbf-897b-b89d80ea9e62)
+![image](https://github.com/user-attachments/assets/79b6b782-3b3f-45a3-964f-d5c40d5dcf40)
 
 ## 경력별 채용 현황
 - AI 산업에서 신입사원 채용 건수는 5건 미만으로, 매우 적은 비율로 채용이 이뤄지고 있음
