@@ -96,7 +96,7 @@
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
     
 
-## AI 기업 시각화
+## AI 기업 정보 시각화
 ### 지역별 AI 기업 개수
 - AI 기업의 대부분은 서울과 성남시에 있다.
 ![image](https://github.com/user-attachments/assets/916bd215-7ae3-4dce-9e23-1abe7fc82749)
