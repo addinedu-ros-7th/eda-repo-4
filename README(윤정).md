@@ -9,8 +9,8 @@
 
 __기업 정보의 부족__ 
 - 특정 웹사이트에서 제공하는 기업목록이 아닌 DART, 잡코리아 등에서 더 많은 기업들의 정보를 가져오고 추가한다면 더욱 신뢰성 있고 유용한 정보 제공이 가능할 것이다.
-- 
-![image](https://github.com/user-attachments/assets/c3f43d1e-852e-42cc-b466-64e6fc6e635e)
+  
+![image](https://github.com/user-attachments/assets/783be2fe-6d07-4301-8a12-59c153e3ebb5)
 
 
 
