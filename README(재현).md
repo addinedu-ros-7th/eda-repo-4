@@ -9,18 +9,15 @@
 ![main_visual_2024_pc](https://github.com/user-attachments/assets/a71ebe0c-be00-43af-b932-1afc973e18a5)
     
   
-## ㅁㅇㄻㅇ
-- AI 산업에서 신입사원 채용 건수는 5건 미만으로, 매우 적은 비율로 채용이 이뤄지고 있음
-- 경력직에서는, 경력이 3년 이상인 사람을 가장 많이 뽑는 것으로 확인됨
-  
-![image](https://github.com/user-attachments/assets/5f33ba4e-dc71-4a17-afdf-6dff919328c8)
-![image](https://github.com/user-attachments/assets/a233ca85-1673-4a47-ae11-a6f2f5404054)
+## 지역별 AI 기업 개수
+- AI 기업은 대부분 서울에 밀집해 있음
+  ![image](https://github.com/user-attachments/assets/bf211242-c854-4093-b3b8-bad91bc68741)
 
-## 산업 및 직무별 채용 현황 
-- 산업과 직무별로 채용 현황을 봤을 때, IT 계열에서 압도적으로 채용이 많이 이뤄지고 있음을 확인할 수 있음
+
+## 카테고리별 AI 기업 개수
   
-![image](https://github.com/user-attachments/assets/2712103b-2e9b-4609-bff6-ce2762e06275)
-![image](https://github.com/user-attachments/assets/e1a4d420-d774-4bea-9aa2-c35758ae4d2e)
+![image](https://github.com/user-attachments/assets/bcda4e4e-4c46-4d9a-aec3-6b1ad2eaaaf6)
+
 
 ## 데이터 관계 분석
 ### 연봉 & 워라벨 
