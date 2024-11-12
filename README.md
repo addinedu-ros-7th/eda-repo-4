@@ -106,7 +106,7 @@
   
 ![image](https://github.com/user-attachments/assets/9d44e777-cf5d-4578-b62f-4956b86d3091)
 
-## AI 기업 상관관계
+## AI 기업 상관관계 분석
 ### 설립연도와 평점의 상관관계
 - 상관관계 거의 없지만 최근에 생긴 AI 기업들의 평점이 높았다.
   
