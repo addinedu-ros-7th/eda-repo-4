@@ -1,17 +1,6 @@
-# eda-repo-4
-EDA 프로젝트 4조 저장소. AI JOBSORI
 
 ![image](https://github.com/user-attachments/assets/05fa4947-4226-4ef5-a26f-75e1ec9c4cdf)
 ![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
-
-# 목차
-
-### 1. 프로젝트 소개
-### 2. 채용 분석
-### 3. 기업 분석
-### 4. 결론
-![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
-
 
 # 1. 프로젝트 소개
 
