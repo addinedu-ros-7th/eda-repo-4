@@ -31,7 +31,7 @@
 - 사내문화가 좋으면 대부분 기업의 평점이 좋은 것을 확인할 수 있었음
   
 ![image](https://github.com/user-attachments/assets/21a38b2f-7934-44d1-956c-e2e5f592a832)
-![image](https://github.com/user-attachments/assets/f0044268-4569-4ae7-8787-73fd2f77093f)
+![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
 
 ### 복지개수 & 복지평점
 - 복지 개수가 많다고 복지 평점이 좋은 건 아닌 것 같음
