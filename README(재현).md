@@ -11,20 +11,19 @@
   
 ## 지역별 AI 기업 개수
 - AI 기업은 대부분 서울에 밀집해 있음
-  ![image](https://github.com/user-attachments/assets/bf211242-c854-4093-b3b8-bad91bc68741)
+![image](https://github.com/user-attachments/assets/916bd215-7ae3-4dce-9e23-1abe7fc82749)
 
 
 ## 카테고리별 AI 기업 개수
   
-![image](https://github.com/user-attachments/assets/bcda4e4e-4c46-4d9a-aec3-6b1ad2eaaaf6)
+![image](https://github.com/user-attachments/assets/9d44e777-cf5d-4578-b62f-4956b86d3091)
 
 
-## 데이터 관계 분석
-### 연봉 & 워라벨 
-- 상관관계 분석을 통해 대부분의 직업에서 연봉이 높을 수록 워라밸이 안 좋은 것을 확인할 수 있었음
+## 설립연도와 평점의 상관관계
+- 오래된 회사일수록 안정적이기 때문에 평점이 좋지 않을까? => 거의 관계 없지만 최근에 생긴 기업들의 평점이 높다.
   
-![image](https://github.com/user-attachments/assets/374abc89-faf6-41de-bf66-a4bd607c4dbb)
-![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
+![image](https://github.com/user-attachments/assets/f375cc18-14b5-4ec1-b341-4b8ffe387ffa)
+
 
 ### 사내문화 & 기업평점
 - 사내문화가 좋으면 대부분 기업의 평점이 좋은 것을 확인할 수 있었음
