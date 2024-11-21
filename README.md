@@ -35,14 +35,26 @@
 
 
 ## 활용 기술
-|구분|상세|
-|:---:|:---:|
-|개발 환경| ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)|
-|개발 Tool|![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazon-aws&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD700?logo=beautifulsoup&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)<br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white)|
-|협업|![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white)|
+## 개발 환경 및 사용 기술
 
-![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
-![image](https://github.com/user-attachments/assets/854c229f-d71f-41fa-9514-121bb3a8bb9b)
+## 개발 환경 및 사용 기술
+
+## 개발 환경 및 사용 기술
+
+## 개발 환경 및 사용 기술
+
+| **구분**             | **상세**                                                                                                                                                                                                                                                                                                       |
+|:--------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **개발 환경**         | ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?logo=ubuntu&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazon-aws&logoColor=white) |
+| **개발 언어**         | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)                                                                                                                                                                                                                                                                      |
+| **DBMS**              | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)                                                                                                                                                                                                                                                           |
+| **라이브러리**        | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)                                                                                                                                            |
+| **시각화 도구**       | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?logo=python&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white) |
+| **웹 크롤링 및 스크래핑 도구** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD700?logo=beautifulsoup&logoColor=black)                                                                                                            |
+| **협업**              | ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=google-sheets&logoColor=white)                                                                              |
+
+
+
 
 
 # 2. 채용 분석
