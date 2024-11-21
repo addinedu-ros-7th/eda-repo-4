@@ -177,5 +177,9 @@
 - 현재 AI 기업에 대한 시각화 정보는 제공할 수 있었지만, 채용 정보를 같이 필터링하는 기능은 추가하지 못했다. 앞으로 데이터베이스를 더 확대하고 통합하면, 기업 정보와 채용 정보를 함께 제공하는 더 편리한 서비스를 만들 수 있을 것이다.
 
 
+# 5. 발표자료
+
+https://docs.google.com/presentation/d/10gtgD08JYPRTJuCugc3KuVbuZQonLtEF/edit?usp=sharing&ouid=109125789737068453465&rtpof=true&sd=true
+
 
 
